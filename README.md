@@ -7,4 +7,3 @@ The last section of this chapter contains the variable selection methods. First,
 
 The underlying theoretical background of the various methods are explained. All methods are demonstrated with a series of examples and plots. Some of the most important R codes are given. The chapter ends with a list of problems useful for written exams.
 
-The R codes will be available on December 15. 
